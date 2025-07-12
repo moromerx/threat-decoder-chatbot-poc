@@ -15,7 +15,7 @@ Threat Decoder Chatbot is an intelligent, Streamlit-based AI assistant designed 
 
 Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/moromerx/threat-decoder-chatbot-poc.git
 cd threat-decoder-chatbot-poc
 ```
 
