@@ -1,6 +1,6 @@
 # Threat Decoder Chatbot
 
-Threat Decoder Chatbot is an intelligent, Streamlit-based AI assistant designed for Security Operations Center (SOC) tasks. It helps you decode various encodings (Base64, Base32, URL) and fetch threat intelligence from VirusTotal using file hashes or IP addresses.
+Threat Decoder Chatbot is an intelligent streamlit-based AI assistant designed for Security Operations Center (SOC) tasks. It helps you decode various encodings (Base64, Base32, URL) and fetch threat intelligence from VirusTotal using file hashes or IP addresses.
 
 ---
 
